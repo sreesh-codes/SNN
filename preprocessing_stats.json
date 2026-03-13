@@ -1,0 +1,43 @@
+{
+  "preprocessing_stats": {
+    "noisy_neurons_removed": 0,
+    "kept_neurons": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "silent_samples_removed": 0,
+    "normalization_method": "global",
+    "split_ratios": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    }
+  },
+  "quality_stats": {
+    "total_spikes": 138937,
+    "sparsity": 9.924071428571429,
+    "mean_spikes_per_sample": 198.48142857142858,
+    "std_spikes_per_sample": 45.52181201784212,
+    "mean_firing_rate": 0.09924071428571428,
+    "silent_samples": 0,
+    "low_spike_samples": 0
+  }
+}

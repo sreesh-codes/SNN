@@ -1,0 +1,18 @@
+{
+  "n_samples": 1000,
+  "n_features": 20,
+  "n_classes": 5,
+  "n_informative": 15,
+  "encoding": "rate",
+  "max_time_steps": 100,
+  "task": "classification",
+  "class_distribution": {
+    "0": 200,
+    "1": 200,
+    "2": 198,
+    "3": 201,
+    "4": 201
+  },
+  "random_state": 42,
+  "generated_at": "2026-03-13T22:31:59.579593"
+}
